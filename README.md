@@ -6,4 +6,4 @@
 
 <br>[1 Упражнения по Knn](https://github.com/kirmipt/dlschool_mipt/blob/main/homework/%5Bhomework%5Dknn.ipynb)
 
-<br>[2 Упражненя по Линейным моделям (logreg grad-desc regulization)](https://github.com/kirmipt/dlschool_mipt/blob/main/homework/%5Bhomework%5Dlinear_models_fall_2021.ipynb)
+<br>[2 Упражненя по Линейным моделям (logreg grad-desc regularization)](https://github.com/kirmipt/dlschool_mipt/blob/main/homework/%5Bhomework%5Dlinear_models_fall_2021.ipynb)
