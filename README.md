@@ -1,4 +1,4 @@
-# deep learning school МФТИ 
+# deep learning school МФТИ от ML до NLP
 <br>https://dls.samcs.ru/courses
 <br>https://stepik.org/course/196127/syllabus
 
